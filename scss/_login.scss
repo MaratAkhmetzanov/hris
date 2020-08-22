@@ -1,0 +1,14 @@
+@import "_variables.scss";
+
+main
+
+.auth-wrp{
+    width: 392px;
+    padding: 24px;
+    box-sizing: border-box;
+    border-left: solid 1px $color-line;
+    border-right: solid 1px $color-line;
+    display: flex;
+    flex-direction: column;
+}
+
